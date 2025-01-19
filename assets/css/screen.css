@@ -418,8 +418,8 @@ label[class*="radio"], label[class*="checkbox"] {
 
 /* Links */
 a {
-	color: var(--ghost-accent-color);
-	text-decoration: none;
+	color: #262626;
+	text-decoration: underline;
 }
 
 a:hover,

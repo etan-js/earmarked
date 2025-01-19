@@ -1,10 +1,10 @@
 ## Earmarked
 
 Earmarked by [Themepost](http://themepost.dev).
-Earmarked is a clean, lightweight theme that is a perfect starting point for blogs.
+Earmarked is a sleek, minimalist theme designed to be the perfect foundation for creating blogs.
 
 ## Live Demo
-[Live Demo](https://earmarked-demo.Themepost.link/)
+[Live Demo](https://themepost.dev/earmarked)
 
 ## Files to edit
 
